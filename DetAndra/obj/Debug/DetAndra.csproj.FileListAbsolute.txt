@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DetAndra\bin\Debug\DetAndra.exe.config
+C:\Users\Ghitta\source\repos\DetAndra\bin\Debug\DetAndra.exe
+C:\Users\Ghitta\source\repos\DetAndra\bin\Debug\DetAndra.pdb
+C:\Users\Ghitta\source\repos\DetAndra\obj\Debug\DetAndra.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DetAndra\obj\Debug\DetAndra.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DetAndra\obj\Debug\DetAndra.exe
+C:\Users\Ghitta\source\repos\DetAndra\obj\Debug\DetAndra.pdb

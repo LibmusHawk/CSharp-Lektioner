@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DenTredje\bin\Debug\DenTredje.exe.config
+C:\Users\Ghitta\source\repos\DenTredje\bin\Debug\DenTredje.exe
+C:\Users\Ghitta\source\repos\DenTredje\bin\Debug\DenTredje.pdb
+C:\Users\Ghitta\source\repos\DenTredje\obj\Debug\DenTredje.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DenTredje\obj\Debug\DenTredje.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DenTredje\obj\Debug\DenTredje.exe
+C:\Users\Ghitta\source\repos\DenTredje\obj\Debug\DenTredje.pdb

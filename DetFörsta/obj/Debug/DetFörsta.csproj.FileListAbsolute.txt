@@ -1,0 +1,9 @@
+C:\Users\Ghitta\source\repos\DetFörsta\bin\Debug\DetFörsta.exe.config
+C:\Users\Ghitta\source\repos\DetFörsta\bin\Debug\DetFörsta.exe
+C:\Users\Ghitta\source\repos\DetFörsta\bin\Debug\DetFörsta.pdb
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.exe
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.pdb
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.Properties.Resources.resources
+C:\Users\Ghitta\source\repos\DetFörsta\obj\Debug\DetFörsta.csproj.GenerateResource.cache

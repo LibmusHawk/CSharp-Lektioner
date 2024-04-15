@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DenFjärde\bin\Debug\DenFjärde.exe.config
+C:\Users\Ghitta\source\repos\DenFjärde\bin\Debug\DenFjärde.exe
+C:\Users\Ghitta\source\repos\DenFjärde\bin\Debug\DenFjärde.pdb
+C:\Users\Ghitta\source\repos\DenFjärde\obj\Debug\DenFjärde.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DenFjärde\obj\Debug\DenFjärde.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DenFjärde\obj\Debug\DenFjärde.exe
+C:\Users\Ghitta\source\repos\DenFjärde\obj\Debug\DenFjärde.pdb
