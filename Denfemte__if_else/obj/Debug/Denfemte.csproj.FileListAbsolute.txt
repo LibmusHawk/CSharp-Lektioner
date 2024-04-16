@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Denfemte\bin\Debug\Denfemte.exe.config
+C:\Users\Ghitta\source\repos\Denfemte\bin\Debug\Denfemte.exe
+C:\Users\Ghitta\source\repos\Denfemte\bin\Debug\Denfemte.pdb
+C:\Users\Ghitta\source\repos\Denfemte\obj\Debug\Denfemte.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Denfemte\obj\Debug\Denfemte.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Denfemte\obj\Debug\Denfemte.exe
+C:\Users\Ghitta\source\repos\Denfemte\obj\Debug\Denfemte.pdb

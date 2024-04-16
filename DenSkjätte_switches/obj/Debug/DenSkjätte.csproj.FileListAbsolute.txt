@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DenSkjätte\bin\Debug\DenSkjätte.exe.config
+C:\Users\Ghitta\source\repos\DenSkjätte\bin\Debug\DenSkjätte.exe
+C:\Users\Ghitta\source\repos\DenSkjätte\bin\Debug\DenSkjätte.pdb
+C:\Users\Ghitta\source\repos\DenSkjätte\obj\Debug\DenSkjätte.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DenSkjätte\obj\Debug\DenSkjätte.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DenSkjätte\obj\Debug\DenSkjätte.exe
+C:\Users\Ghitta\source\repos\DenSkjätte\obj\Debug\DenSkjätte.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\bin\Debug\DenFörsteUppgift.exe.config
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\bin\Debug\DenFörsteUppgift.exe
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\bin\Debug\DenFörsteUppgift.pdb
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\obj\Debug\DenFörsteUppgift.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\obj\Debug\DenFörsteUppgift.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\obj\Debug\DenFörsteUppgift.exe
+C:\Users\Ghitta\source\repos\DenFörsteUppgift\obj\Debug\DenFörsteUppgift.pdb
