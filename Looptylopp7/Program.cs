@@ -13,36 +13,67 @@ namespace Looptylopp7
 
             Console.BackgroundColor = ConsoleColor.DarkYellow;
             Console.Clear();
+            /*
+                        Console.Write("How many times you want the loopity loop?: ");
+                            int loopCounter = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("How many times you want the loopity loop?: ");
-                int loopCounter = Convert.ToInt32(Console.ReadLine());
+                        if (loopCounter <= 0)
+                        {
+                            Console.WriteLine("Sorry bellend, the numbers");
+                        }
+                        else
+                        {
+                            for(int i = 0; i < loopCounter; i++) 
+                            {
+                                Console.WriteLine("Bellend");
+                            }
+                        }
 
-            if (loopCounter <= 0)
+
+
+                        for (int i = 0; i < loopCounter; i++)
+                        {
+                            Console.WriteLine("Bellend");
+                        }
+
+                        for (int i = 0; i < loopCounter; i++)
+                        {
+                            Console.WriteLine(i);
+                        }
+                        */
+
+            Console.Write("Enter the first number: ");
+            string numberAInput = Console.ReadLine();
+            int numberA = Convert.ToInt32(numberAInput);
+
+            Console.Write("Enter the second number: ");
+            string numberBInput = Console.ReadLine();
+            int numberB = Convert.ToInt32(numberAInput);
+
+            int answer = numberA * numberB;
+            int actualAnswer = 0;
+
+            Console.Write("Value of " + numberA + " x " + numberB + ": ");
+            Console.WriteLine();
+
+
+            do
             {
-                Console.WriteLine("Sorry bellend, the numbers");
-            }
-            else
-            {
-                for(int i = 0; i < loopCounter; i++) 
+                Console.Write("Enter your answer: ");
+                string answerInput = Console.ReadLine();
+                actualAnswer = Convert.ToInt32(answerInput);
+
+                if(answer != actualAnswer)
                 {
-                    Console.WriteLine("Bellend");
+                    Console.WriteLine("close but wrong");
+                    Console.WriteLine();
                 }
-            }
 
 
-
-            /*for (int i = 0; i < loopCounter; i++)
-            {
-                Console.WriteLine("Bellend");
-            }
-
-            for (int i = 0; i < loopCounter; i++)
-            {
-                Console.WriteLine(i);
-            }
-            */
-
-            Console.ReadLine();
+            } while (answer != actualAnswer);
+            Console.WriteLine("well done peasent");
+           Console.ReadLine();
+            
         }
     }
 }
