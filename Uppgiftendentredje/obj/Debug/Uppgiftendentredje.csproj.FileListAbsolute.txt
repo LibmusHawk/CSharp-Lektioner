@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\bin\Debug\Uppgiftendentredje.exe.config
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\bin\Debug\Uppgiftendentredje.exe
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\bin\Debug\Uppgiftendentredje.pdb
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\obj\Debug\Uppgiftendentredje.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\obj\Debug\Uppgiftendentredje.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\obj\Debug\Uppgiftendentredje.exe
+C:\Users\Ghitta\source\repos\Uppgiftendentredje\obj\Debug\Uppgiftendentredje.pdb

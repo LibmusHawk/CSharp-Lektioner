@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\obj\Debug\Uppgiftendensjunde.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\obj\Debug\Uppgiftendensjunde.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\bin\Debug\Uppgiftendensjunde.exe.config
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\bin\Debug\Uppgiftendensjunde.exe
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\bin\Debug\Uppgiftendensjunde.pdb
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\obj\Debug\Uppgiftendensjunde.exe
+C:\Users\Ghitta\source\repos\Uppgiftendensjunde\obj\Debug\Uppgiftendensjunde.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\bin\Debug\Uppgiftendenskjätte.exe.config
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\bin\Debug\Uppgiftendenskjätte.exe
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\bin\Debug\Uppgiftendenskjätte.pdb
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\obj\Debug\Uppgiftendenskjätte.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\obj\Debug\Uppgiftendenskjätte.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\obj\Debug\Uppgiftendenskjätte.exe
+C:\Users\Ghitta\source\repos\Uppgiftendenskjätte\obj\Debug\Uppgiftendenskjätte.pdb

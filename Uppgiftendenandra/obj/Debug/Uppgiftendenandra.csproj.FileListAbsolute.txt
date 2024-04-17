@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\bin\Debug\Uppgiftendenandra.exe.config
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\bin\Debug\Uppgiftendenandra.exe
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\bin\Debug\Uppgiftendenandra.pdb
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\obj\Debug\Uppgiftendenandra.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\obj\Debug\Uppgiftendenandra.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\obj\Debug\Uppgiftendenandra.exe
+C:\Users\Ghitta\source\repos\Uppgiftendenandra\obj\Debug\Uppgiftendenandra.pdb
