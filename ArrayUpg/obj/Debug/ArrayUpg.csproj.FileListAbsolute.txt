@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ArrayUpg\bin\Debug\ArrayUpg.exe.config
+C:\Users\Ghitta\source\repos\ArrayUpg\bin\Debug\ArrayUpg.exe
+C:\Users\Ghitta\source\repos\ArrayUpg\bin\Debug\ArrayUpg.pdb
+C:\Users\Ghitta\source\repos\ArrayUpg\obj\Debug\ArrayUpg.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ArrayUpg\obj\Debug\ArrayUpg.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ArrayUpg\obj\Debug\ArrayUpg.exe
+C:\Users\Ghitta\source\repos\ArrayUpg\obj\Debug\ArrayUpg.pdb

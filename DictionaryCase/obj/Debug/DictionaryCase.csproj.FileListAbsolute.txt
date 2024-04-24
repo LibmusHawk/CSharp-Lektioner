@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\DictionaryCase\bin\Debug\DictionaryCase.exe.config
+C:\Users\Ghitta\source\repos\DictionaryCase\bin\Debug\DictionaryCase.exe
+C:\Users\Ghitta\source\repos\DictionaryCase\bin\Debug\DictionaryCase.pdb
+C:\Users\Ghitta\source\repos\DictionaryCase\obj\Debug\DictionaryCase.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\DictionaryCase\obj\Debug\DictionaryCase.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\DictionaryCase\obj\Debug\DictionaryCase.exe
+C:\Users\Ghitta\source\repos\DictionaryCase\obj\Debug\DictionaryCase.pdb
