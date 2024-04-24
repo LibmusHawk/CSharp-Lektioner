@@ -14,7 +14,7 @@ namespace DenSkjätte
             Console.BackgroundColor = ConsoleColor.DarkCyan;
             Console.Clear();
 
-            Console.Write("Enter a day of the week: ");
+            Console.Write("Lista ut hurdan besvikelse du är: ");
             int day = Convert.ToInt32(Console.ReadLine());
             /*
             if (day == 1)
@@ -28,21 +28,17 @@ namespace DenSkjätte
             */
             switch (day)
             {
-                case 1: Console.WriteLine("Mon");
+                case 1: Console.WriteLine("Needs Improvement");
                     break;
-                case 2: Console.WriteLine("Tue");
+                case 2: Console.WriteLine("ok");
                     break;
-                case 3: Console.WriteLine("Wedding");
+                case 3: Console.WriteLine("Satisfactory");
                     break;
-                case 4: Console.WriteLine("Thu");
+                case 4: Console.WriteLine("Good");
                     break;
-                case 5: Console.WriteLine("Fri");
+                case 5: Console.WriteLine("Excellent");
                     break;
-                case 6: Console.WriteLine("sat");
-                    break;
-                case 7: Console.WriteLine("Sun");
-                    break;
-                default: Console.WriteLine("Invalid");
+                default: Console.WriteLine("Fail");
                     break;
 
                    

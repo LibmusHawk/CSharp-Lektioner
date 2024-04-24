@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ghitta\\source\\repos\\Denfemte\\",
+  "WorkspaceRootPath": "C:\\Users\\Ghitta\\source\\repos\\Denfemte__if_else\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD0907D4-7A0C-4BD2-9242-3B18E0FD57AD}|Denfemte.csproj|c:\\users\\ghitta\\source\\repos\\denfemte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD0907D4-7A0C-4BD2-9242-3B18E0FD57AD}|Denfemte.csproj|c:\\users\\ghitta\\source\\repos\\denfemte__if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD0907D4-7A0C-4BD2-9242-3B18E0FD57AD}|Denfemte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ghitta\\source\\repos\\Denfemte\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ghitta\\source\\repos\\Denfemte__if_else\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ghitta\\source\\repos\\Denfemte\\Program.cs",
+              "ToolTip": "C:\\Users\\Ghitta\\source\\repos\\Denfemte__if_else\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T06:23:21.229Z",
               "EditorCaption": ""

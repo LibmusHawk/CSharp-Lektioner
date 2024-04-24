@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\BooleansUpg\bin\Debug\BooleansUpg.exe.config
+C:\Users\Ghitta\source\repos\BooleansUpg\bin\Debug\BooleansUpg.exe
+C:\Users\Ghitta\source\repos\BooleansUpg\bin\Debug\BooleansUpg.pdb
+C:\Users\Ghitta\source\repos\BooleansUpg\obj\Debug\BooleansUpg.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\BooleansUpg\obj\Debug\BooleansUpg.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\BooleansUpg\obj\Debug\BooleansUpg.exe
+C:\Users\Ghitta\source\repos\BooleansUpg\obj\Debug\BooleansUpg.pdb

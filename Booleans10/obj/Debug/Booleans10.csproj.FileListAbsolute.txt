@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Booleans10\bin\Debug\Booleans10.exe.config
+C:\Users\Ghitta\source\repos\Booleans10\bin\Debug\Booleans10.exe
+C:\Users\Ghitta\source\repos\Booleans10\bin\Debug\Booleans10.pdb
+C:\Users\Ghitta\source\repos\Booleans10\obj\Debug\Booleans10.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Booleans10\obj\Debug\Booleans10.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Booleans10\obj\Debug\Booleans10.exe
+C:\Users\Ghitta\source\repos\Booleans10\obj\Debug\Booleans10.pdb

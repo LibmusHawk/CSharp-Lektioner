@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\bin\Debug\UddaellerjämnUpg.exe.config
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\bin\Debug\UddaellerjämnUpg.exe
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\bin\Debug\UddaellerjämnUpg.pdb
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\obj\Debug\UddaellerjämnUpg.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\obj\Debug\UddaellerjämnUpg.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\obj\Debug\UddaellerjämnUpg.exe
+C:\Users\Ghitta\source\repos\UddaellerjämnUpg\obj\Debug\UddaellerjämnUpg.pdb
