@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe.config
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.pdb
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.exe
+C:\Users\Ghitta\source\repos\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.pdb

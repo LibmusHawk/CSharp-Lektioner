@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\voidFunction\bin\Debug\voidFunction.exe.config
+C:\Users\Ghitta\source\repos\voidFunction\bin\Debug\voidFunction.exe
+C:\Users\Ghitta\source\repos\voidFunction\bin\Debug\voidFunction.pdb
+C:\Users\Ghitta\source\repos\voidFunction\obj\Debug\voidFunction.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\voidFunction\obj\Debug\voidFunction.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\voidFunction\obj\Debug\voidFunction.exe
+C:\Users\Ghitta\source\repos\voidFunction\obj\Debug\voidFunction.pdb

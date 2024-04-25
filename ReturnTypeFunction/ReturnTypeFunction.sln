@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTypeFunction", "ReturnTypeFunction.csproj", "{5D8D1591-271E-40A0-B160-F84CD312671B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8D1591-271E-40A0-B160-F84CD312671B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8D1591-271E-40A0-B160-F84CD312671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8D1591-271E-40A0-B160-F84CD312671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8D1591-271E-40A0-B160-F84CD312671B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34733796-BC98-4E78-8858-722692A1B63F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\Ghitta\source\repos\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\Ghitta\source\repos\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\Ghitta\source\repos\NamedParameters\obj\Debug\NamedParameters.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\Ghitta\source\repos\NamedParameters\obj\Debug\NamedParameters.pdb
