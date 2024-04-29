@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Ghitta\source\repos\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Ghitta\source\repos\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Ghitta\source\repos\ArraySort\obj\Debug\ArraySort.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Ghitta\source\repos\ArraySort\obj\Debug\ArraySort.pdb

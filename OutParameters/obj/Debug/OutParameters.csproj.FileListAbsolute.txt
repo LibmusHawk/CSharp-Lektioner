@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\OutParameters\bin\Debug\OutParameters.exe.config
+C:\Users\Ghitta\source\repos\OutParameters\bin\Debug\OutParameters.exe
+C:\Users\Ghitta\source\repos\OutParameters\bin\Debug\OutParameters.pdb
+C:\Users\Ghitta\source\repos\OutParameters\obj\Debug\OutParameters.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\OutParameters\obj\Debug\OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\OutParameters\obj\Debug\OutParameters.exe
+C:\Users\Ghitta\source\repos\OutParameters\obj\Debug\OutParameters.pdb

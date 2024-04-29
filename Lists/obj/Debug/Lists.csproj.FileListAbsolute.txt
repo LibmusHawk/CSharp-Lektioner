@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Lists\bin\Debug\Lists.exe.config
+C:\Users\Ghitta\source\repos\Lists\bin\Debug\Lists.exe
+C:\Users\Ghitta\source\repos\Lists\bin\Debug\Lists.pdb
+C:\Users\Ghitta\source\repos\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Lists\obj\Debug\Lists.exe
+C:\Users\Ghitta\source\repos\Lists\obj\Debug\Lists.pdb
