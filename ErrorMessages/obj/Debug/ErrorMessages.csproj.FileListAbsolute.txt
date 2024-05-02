@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ErrorMessages\bin\Debug\ErrorMessages.exe.config
+C:\Users\Ghitta\source\repos\ErrorMessages\bin\Debug\ErrorMessages.exe
+C:\Users\Ghitta\source\repos\ErrorMessages\bin\Debug\ErrorMessages.pdb
+C:\Users\Ghitta\source\repos\ErrorMessages\obj\Debug\ErrorMessages.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ErrorMessages\obj\Debug\ErrorMessages.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ErrorMessages\obj\Debug\ErrorMessages.exe
+C:\Users\Ghitta\source\repos\ErrorMessages\obj\Debug\ErrorMessages.pdb

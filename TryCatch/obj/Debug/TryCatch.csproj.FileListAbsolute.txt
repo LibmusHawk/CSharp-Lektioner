@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Ghitta\source\repos\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Ghitta\source\repos\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Ghitta\source\repos\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Ghitta\source\repos\TryCatch\obj\Debug\TryCatch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Structures\bin\Debug\Structures.exe.config
+C:\Users\Ghitta\source\repos\Structures\bin\Debug\Structures.exe
+C:\Users\Ghitta\source\repos\Structures\bin\Debug\Structures.pdb
+C:\Users\Ghitta\source\repos\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Structures\obj\Debug\Structures.exe
+C:\Users\Ghitta\source\repos\Structures\obj\Debug\Structures.pdb

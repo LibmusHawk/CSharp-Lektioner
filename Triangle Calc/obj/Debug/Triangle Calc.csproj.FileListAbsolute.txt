@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Triangle Calc\bin\Debug\Triangle Calc.exe.config
+C:\Users\Ghitta\source\repos\Triangle Calc\bin\Debug\Triangle Calc.exe
+C:\Users\Ghitta\source\repos\Triangle Calc\bin\Debug\Triangle Calc.pdb
+C:\Users\Ghitta\source\repos\Triangle Calc\obj\Debug\Triangle Calc.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Triangle Calc\obj\Debug\Triangle Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Triangle Calc\obj\Debug\Triangle Calc.exe
+C:\Users\Ghitta\source\repos\Triangle Calc\obj\Debug\Triangle Calc.pdb

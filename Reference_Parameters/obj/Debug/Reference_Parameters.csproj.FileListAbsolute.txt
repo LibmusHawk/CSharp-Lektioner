@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\Reference_Parameters\bin\Debug\Reference_Parameters.exe.config
+C:\Users\Ghitta\source\repos\Reference_Parameters\bin\Debug\Reference_Parameters.exe
+C:\Users\Ghitta\source\repos\Reference_Parameters\bin\Debug\Reference_Parameters.pdb
+C:\Users\Ghitta\source\repos\Reference_Parameters\obj\Debug\Reference_Parameters.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\Reference_Parameters\obj\Debug\Reference_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\Reference_Parameters\obj\Debug\Reference_Parameters.exe
+C:\Users\Ghitta\source\repos\Reference_Parameters\obj\Debug\Reference_Parameters.pdb
