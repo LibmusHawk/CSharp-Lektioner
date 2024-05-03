@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ClassProperties3\bin\Debug\ClassProperties3.exe.config
+C:\Users\Ghitta\source\repos\ClassProperties3\bin\Debug\ClassProperties3.exe
+C:\Users\Ghitta\source\repos\ClassProperties3\bin\Debug\ClassProperties3.pdb
+C:\Users\Ghitta\source\repos\ClassProperties3\obj\Debug\ClassProperties3.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ClassProperties3\obj\Debug\ClassProperties3.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ClassProperties3\obj\Debug\ClassProperties3.exe
+C:\Users\Ghitta\source\repos\ClassProperties3\obj\Debug\ClassProperties3.pdb

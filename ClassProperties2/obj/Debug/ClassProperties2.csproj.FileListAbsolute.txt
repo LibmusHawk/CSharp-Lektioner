@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ClassProperties2\bin\Debug\ClassProperties2.exe.config
+C:\Users\Ghitta\source\repos\ClassProperties2\bin\Debug\ClassProperties2.exe
+C:\Users\Ghitta\source\repos\ClassProperties2\bin\Debug\ClassProperties2.pdb
+C:\Users\Ghitta\source\repos\ClassProperties2\obj\Debug\ClassProperties2.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ClassProperties2\obj\Debug\ClassProperties2.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ClassProperties2\obj\Debug\ClassProperties2.exe
+C:\Users\Ghitta\source\repos\ClassProperties2\obj\Debug\ClassProperties2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ClassProperties4\bin\Debug\ClassProperties4.exe.config
+C:\Users\Ghitta\source\repos\ClassProperties4\bin\Debug\ClassProperties4.exe
+C:\Users\Ghitta\source\repos\ClassProperties4\bin\Debug\ClassProperties4.pdb
+C:\Users\Ghitta\source\repos\ClassProperties4\obj\Debug\ClassProperties4.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ClassProperties4\obj\Debug\ClassProperties4.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ClassProperties4\obj\Debug\ClassProperties4.exe
+C:\Users\Ghitta\source\repos\ClassProperties4\obj\Debug\ClassProperties4.pdb
