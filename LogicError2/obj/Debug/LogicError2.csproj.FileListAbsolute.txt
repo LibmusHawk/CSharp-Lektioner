@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\LogicError2\bin\Debug\LogicError2.exe.config
+C:\Users\Ghitta\source\repos\LogicError2\bin\Debug\LogicError2.exe
+C:\Users\Ghitta\source\repos\LogicError2\bin\Debug\LogicError2.pdb
+C:\Users\Ghitta\source\repos\LogicError2\obj\Debug\LogicError2.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\LogicError2\obj\Debug\LogicError2.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\LogicError2\obj\Debug\LogicError2.exe
+C:\Users\Ghitta\source\repos\LogicError2\obj\Debug\LogicError2.pdb

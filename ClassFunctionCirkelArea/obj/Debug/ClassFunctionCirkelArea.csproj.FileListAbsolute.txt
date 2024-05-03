@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\bin\Debug\ClassFunctionCirkelArea.exe.config
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\bin\Debug\ClassFunctionCirkelArea.exe
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\bin\Debug\ClassFunctionCirkelArea.pdb
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\obj\Debug\ClassFunctionCirkelArea.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\obj\Debug\ClassFunctionCirkelArea.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\obj\Debug\ClassFunctionCirkelArea.exe
+C:\Users\Ghitta\source\repos\ClassFunctionCirkelArea\obj\Debug\ClassFunctionCirkelArea.pdb

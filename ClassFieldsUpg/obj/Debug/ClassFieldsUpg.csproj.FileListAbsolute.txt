@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\bin\Debug\ClassFieldsUpg.exe.config
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\bin\Debug\ClassFieldsUpg.exe
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\bin\Debug\ClassFieldsUpg.pdb
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\obj\Debug\ClassFieldsUpg.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\obj\Debug\ClassFieldsUpg.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\obj\Debug\ClassFieldsUpg.exe
+C:\Users\Ghitta\source\repos\ClassFieldsUpg\obj\Debug\ClassFieldsUpg.pdb
