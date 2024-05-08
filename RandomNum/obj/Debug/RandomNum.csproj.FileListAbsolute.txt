@@ -1,0 +1,7 @@
+C:\Users\voper\source\repos\RandomNum\bin\Debug\RandomNum.exe.config
+C:\Users\voper\source\repos\RandomNum\bin\Debug\RandomNum.exe
+C:\Users\voper\source\repos\RandomNum\bin\Debug\RandomNum.pdb
+C:\Users\voper\source\repos\RandomNum\obj\Debug\RandomNum.csproj.AssemblyReference.cache
+C:\Users\voper\source\repos\RandomNum\obj\Debug\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\voper\source\repos\RandomNum\obj\Debug\RandomNum.exe
+C:\Users\voper\source\repos\RandomNum\obj\Debug\RandomNum.pdb
