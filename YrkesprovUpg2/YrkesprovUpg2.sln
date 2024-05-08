@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YrkesprovUpg2", "YrkesprovUpg2.csproj", "{CCD408AD-8237-412F-93FD-41558D0FF409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD408AD-8237-412F-93FD-41558D0FF409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD408AD-8237-412F-93FD-41558D0FF409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD408AD-8237-412F-93FD-41558D0FF409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD408AD-8237-412F-93FD-41558D0FF409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24981AF-4C54-49B9-AB18-C61ACC432479}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ghitta\\source\\repos\\YrkesprovUpg6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51136B9C-F14C-4AE7-A58D-21EF78B39E3D}|YrkesprovUpg6.csproj|c:\\users\\ghitta\\source\\repos\\yrkesprovupg6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51136B9C-F14C-4AE7-A58D-21EF78B39E3D}|YrkesprovUpg6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ghitta\\source\\repos\\YrkesprovUpg6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ghitta\\source\\repos\\YrkesprovUpg6\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:10:10.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

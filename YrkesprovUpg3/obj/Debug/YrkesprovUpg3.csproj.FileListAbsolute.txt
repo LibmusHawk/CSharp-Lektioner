@@ -1,0 +1,7 @@
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\bin\Debug\YrkesprovUpg3.exe.config
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\bin\Debug\YrkesprovUpg3.exe
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\bin\Debug\YrkesprovUpg3.pdb
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\obj\Debug\YrkesprovUpg3.csproj.AssemblyReference.cache
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\obj\Debug\YrkesprovUpg3.csproj.CoreCompileInputs.cache
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\obj\Debug\YrkesprovUpg3.exe
+C:\Users\Ghitta\source\repos\YrkesprovUpg3\obj\Debug\YrkesprovUpg3.pdb
